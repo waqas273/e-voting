@@ -268,15 +268,15 @@ const Footer = () => {
             {/* ─── Brand ─── */}
             <div className="flex items-center gap-3">
               <div
-                className="h-9 w-9 rounded-xl flex items-center justify-center flex-shrink-0"
+                className="h-10 w-10 rounded-xl flex items-center justify-center flex-shrink-0"
                 style={{ background: 'rgba(251,191,36,0.08)', border: '1px solid rgba(251,191,36,0.18)' }}
               >
-                <Landmark className="h-4.5 w-4.5 text-yellow-400" />
+                <img src="/logo.png" alt="E-Voting Pakistan Logo" className="h-8 w-8 object-contain" />
               </div>
               <div>
-                <p className="text-sm font-black text-white leading-none">ECP Portal</p>
+                <p className="text-sm font-black text-white leading-none">E-Voting Portal</p>
                 <p className="text-[10px] mt-0.5 font-bold uppercase tracking-widest" style={{ color: 'rgba(52,211,153,0.45)' }}>
-                  Govt. of Pakistan
+                  Pakistan
                 </p>
               </div>
             </div>

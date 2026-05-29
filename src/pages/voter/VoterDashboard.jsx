@@ -96,7 +96,7 @@ const VoterDashboard = () => {
           <div className="p-6 sm:p-8 flex flex-col sm:flex-row justify-between items-center gap-6">
             <div className="text-center sm:text-left">
               <p className="text-xs font-bold uppercase tracking-widest mb-2 text-emerald-300/70 flex items-center gap-1.5">
-                🇵🇰 ECP Digital Polling — Verified Voter
+                🇵🇰 E-Voting Digital Polling — Verified Voter
               </p>
               <h1 className="text-2xl sm:text-3xl font-black text-white leading-tight">
                 Assalam-o-Alaikum,

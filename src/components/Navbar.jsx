@@ -87,16 +87,14 @@ const Navbar = () => {
               onClick={() => setIsOpen(false)}
             >
               <div className="relative">
-                <div
-                  className="h-9 w-9 rounded-xl flex items-center justify-center transition-all duration-300 group-hover:scale-105"
+                <img 
+                  src="/logo.png" 
+                  alt="E-Voting Pakistan Logo" 
+                  className="h-10 w-10 object-contain transition-all duration-300 group-hover:scale-105"
                   style={{
-                    background: 'linear-gradient(135deg, rgba(6,78,59,0.8), rgba(4,120,87,0.6))',
-                    border: '1px solid rgba(16,185,129,0.3)',
-                    boxShadow: '0 0 15px -3px rgba(250,204,21,0.2)',
+                    filter: 'drop-shadow(0 0 8px rgba(250,204,21,0.3))'
                   }}
-                >
-                  <Landmark className="h-5 w-5 text-yellow-400" />
-                </div>
+                />
                 <span className="absolute -top-0.5 -right-0.5 h-2 w-2 bg-emerald-400 rounded-full animate-pulse" />
               </div>
               <div>

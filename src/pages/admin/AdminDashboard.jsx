@@ -113,11 +113,11 @@ const AdminDashboard = () => {
         >
           <div>
             <div className="flex items-center gap-4 mb-4 sm:mb-0">
-              <div className="h-12 w-12 rounded-xl flex items-center justify-center bg-yellow-500/10 border border-yellow-500/20 shadow-inner">
-                <Landmark className="h-6 w-6 text-yellow-400" />
+              <div className="h-14 w-14 rounded-xl flex items-center justify-center bg-yellow-500/10 border border-yellow-500/20 shadow-inner p-1">
+                <img src="/logo.png" alt="E-Voting Logo" className="h-full w-full object-contain" />
               </div>
               <div>
-                <h1 className="text-2xl font-black glow-text-gold tracking-wide uppercase">ECP Administrative Command</h1>
+                <h1 className="text-2xl font-black glow-text-gold tracking-wide uppercase">E-Voting Administrative Command</h1>
                 <p className="text-emerald-300 text-xs mt-1 font-semibold uppercase tracking-wider">Manage elections, constituencies, and candidates</p>
               </div>
             </div>

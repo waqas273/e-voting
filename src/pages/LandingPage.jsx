@@ -145,12 +145,12 @@ const LandingPage = () => {
       <nav className="sticky top-0 z-50 backdrop-blur-xl bg-emerald-950/80 border-b border-emerald-500/10">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <motion.div initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} className="flex items-center gap-3">
-            <div className="bg-emerald-900/60 p-2.5 rounded-xl border border-emerald-500/30 shadow-lg shadow-emerald-500/20">
-              <Landmark className="h-6 w-6 text-yellow-400 filter drop-shadow-[0_0_8px_rgba(250,204,21,0.5)]" />
+            <div className="bg-emerald-900/60 p-1.5 rounded-xl border border-emerald-500/30 shadow-lg shadow-emerald-500/20">
+              <img src="/logo.png" alt="E-Voting Pakistan Logo" className="h-8 w-8 object-contain filter drop-shadow-[0_0_8px_rgba(250,204,21,0.5)]" />
             </div>
             <div>
-              <span className="text-lg font-black tracking-widest uppercase text-white glow-text-gold">ECP</span>
-              <span className="text-xs text-emerald-400 font-bold ml-2 uppercase tracking-wider">Digital Portal</span>
+              <span className="text-lg font-black tracking-widest uppercase text-white glow-text-gold">E-VOTING</span>
+              <span className="text-xs text-emerald-400 font-bold ml-2 uppercase tracking-wider">PAKISTAN</span>
             </div>
           </motion.div>
           <motion.div initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} className="flex items-center gap-3">
@@ -210,16 +210,16 @@ const LandingPage = () => {
           className="text-5xl md:text-7xl lg:text-8xl font-black mb-6 tracking-tight leading-[1.05]">
           Pakistan's Official<br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 via-yellow-400 to-amber-500">
-            Digital Election
+            Digital
           </span><br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 to-emerald-500">
-            Commission
+            E-Voting System
           </span>
         </motion.h1>
 
         <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.3 }}
           className="text-lg md:text-xl text-emerald-200/75 mb-10 max-w-2xl mx-auto font-light leading-relaxed">
-          Secure, transparent, and real-time digital voting powered by the Election Commission of Pakistan.
+          Secure, transparent, and real-time digital voting powered by E-Voting Pakistan.
           Your voice. Your ballot. Your Pakistan.
         </motion.p>
 

@@ -643,13 +643,13 @@ const LoginPage = () => {
           className="text-center"
         >
           <div className="flex justify-center mb-4">
-            <div className="bg-emerald-900/60 p-4 rounded-full border border-emerald-500/30 shadow-lg relative group transition-transform duration-300 hover:scale-105 animate-float">
-              <Landmark className="h-14 w-14 text-yellow-400 filter drop-shadow-[0_0_10px_rgba(250,204,21,0.4)]" />
+            <div className="bg-emerald-900/60 p-2 rounded-full border border-emerald-500/30 shadow-lg relative group transition-transform duration-300 hover:scale-105 animate-float">
+              <img src="/logo.png" alt="E-Voting Pakistan Logo" className="h-16 w-16 object-contain filter drop-shadow-[0_0_10px_rgba(250,204,21,0.4)]" />
               <div className="absolute inset-0 bg-yellow-400/20 rounded-full blur-xs opacity-0 group-hover:opacity-100 transition-opacity" />
             </div>
           </div>
-          <h2 className="text-3xl font-black text-white tracking-wide uppercase glow-text-gold">Election Commission</h2>
-          <p className="text-emerald-300 text-xs font-black tracking-widest uppercase mt-1">Of Pakistan (ECP)</p>
+          <h2 className="text-3xl font-black text-white tracking-wide uppercase glow-text-gold">E-VOTING SYSTEM</h2>
+          <p className="text-emerald-300 text-xs font-black tracking-widest uppercase mt-1">Pakistan</p>
           <p className="text-xs text-emerald-450 mt-2">Digital General Elections Voting Portal</p>
         </motion.div>
 
