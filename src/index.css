@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary-gold: #fbbf24;
+    --gold-dark: #b45309;
+    --emerald-primary: #10b981;
+    --emerald-dark: #047857;
+    --bg-card-solid: rgba(2, 36, 22, 0.7);
+    --border-color: rgba(16, 185, 129, 0.2);
+    --text-primary: #f8fafc;
+  }
+}
+
+/* Status dots */
+.dot-active {
+  height: 0.625rem;
+  width: 0.625rem;
+  border-radius: 9999px;
+  background-color: #34d399;
+  animation: pulse-glow 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  box-shadow: 0 0 8px rgba(52, 211, 153, 0.8);
+}
+.dot-closed {
+  height: 0.625rem;
+  width: 0.625rem;
+  border-radius: 9999px;
+  background-color: #ef4444;
+  box-shadow: 0 0 8px rgba(239, 68, 68, 0.8);
+}
+.dot-pending {
+  height: 0.625rem;
+  width: 0.625rem;
+  border-radius: 9999px;
+  background-color: #fbbf24;
+  animation: pulse-glow 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  box-shadow: 0 0 8px rgba(251, 191, 36, 0.8);
+}
+.dot-inactive {
+  height: 0.625rem;
+  width: 0.625rem;
+  border-radius: 9999px;
+  background-color: #6b7280;
+}
+
+.ballot-card.selected {
+  border-color: var(--primary-gold) !important;
+  background: rgba(254, 243, 199, 0.15) !important;
+  box-shadow: 0 0 15px rgba(251, 191, 36, 0.3) !important;
+  transform: scale(1.02);
+  transition: all 0.3s ease;
+}
+
+/* Notification simulator inbox drawer styling */
+.bg-emerald-950\/90, .bg-emerald-950\/80, .bg-emerald-950\/50, .bg-emerald-900\/60,
+aside[style*="background: rgba(4, 30, 20"],
+div[style*="background: 'rgba(4, 20, 13, 0.65)'"] {
+  background: var(--bg-card-solid) !important;
+  backdrop-filter: blur(12px) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Live Standings Bar */
+.live-bar {
+  background: rgba(16, 185, 129, 0.1) !important;
+  border-radius: 9999px;
+  overflow: hidden;
+}
+.live-bar-fill {
+  background: linear-gradient(90deg, var(--emerald-dark), var(--emerald-primary)) !important;
+  box-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+}
+.live-bar-fill.leading {
+  background: linear-gradient(90deg, var(--gold-dark), var(--primary-gold)) !important;
+  box-shadow: 0 0 10px rgba(251, 191, 36, 0.5);
+}
+
+/* ECP Watermark opacity adjustment */
+.ecp-watermark {
+  color: var(--emerald-primary) !important;
+  opacity: 0.03 !important;
+}
+
+/* Custom Scrollbars in Light Mode (Actually we use Dark Theme mostly now) */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track { 
+  background: #022416 !important; 
+}
+::-webkit-scrollbar-thumb { 
+  background: rgba(16, 185, 129, 0.3) !important; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover { 
+  background: var(--primary-gold) !important; 
+}
+
+/* Quick fix for warning box text color issues */
+.bg-yellow-950\/20, .bg-emerald-950\/30 {
+  background: rgba(251, 191, 36, 0.08) !important;
+  border-color: rgba(251, 191, 36, 0.2) !important;
+}
+
+/* Glassmorphism Classes (Plain CSS to avoid @apply IDE warnings) */
+.glass-panel {
+  background-color: rgba(2, 36, 22, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(16, 185, 129, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glow-text-gold {
+  text-shadow: 0 0 15px rgba(251, 191, 36, 0.6);
+}
+
+.glow-text-emerald {
+  text-shadow: 0 0 15px rgba(16, 185, 129, 0.6);
+}
+
+/* Glass Card - slightly different from glass-panel, lighter */
+.glass-card {
+  background-color: rgba(2, 46, 28, 0.5);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(16, 185, 129, 0.15);
+  border-radius: 1rem;
+  box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+.glass-card:hover {
+  border-color: rgba(16, 185, 129, 0.28);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.45), 0 0 20px rgba(16, 185, 129, 0.08);
+}
+
+/* Primary Button */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.625rem 1.25rem;
+  border-radius: 0.75rem;
+  font-weight: 800;
+  font-size: 0.875rem;
+  color: #022416;
+  background: linear-gradient(135deg, #f59e0b, #fbbf24);
+  box-shadow: 0 4px 15px -3px rgba(251, 191, 36, 0.4);
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+.btn-primary:hover {
+  background: linear-gradient(135deg, #fbbf24, #fde68a);
+  box-shadow: 0 0 20px rgba(251, 191, 36, 0.5);
+  transform: translateY(-1px);
+}
+.btn-primary:active {
+  transform: scale(0.98);
+}
+
+/* Secondary Button */
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.625rem 1.25rem;
+  border-radius: 0.75rem;
+  font-weight: 700;
+  font-size: 0.875rem;
+  color: #6ee7b7;
+  background: rgba(5, 46, 28, 0.6);
+  border: 1px solid rgba(16, 185, 129, 0.25);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+.btn-secondary:hover {
+  background: rgba(5, 80, 45, 0.6);
+  border-color: rgba(16, 185, 129, 0.5);
+  color: #a7f3d0;
+}
+.btn-secondary:active {
+  transform: scale(0.98);
+}
+
+/* Pulse glow animation for keyframes */
+@keyframes pulse-glow {
+  0%, 100% { opacity: 1; box-shadow: 0 0 8px currentColor; }
+  50% { opacity: 0.6; box-shadow: 0 0 16px currentColor; }
+}
+
+/* Restored custom UI styling classes */
+.glass {
+  background: rgba(4, 30, 20, 0.55);
+  backdrop-filter: blur(20px) saturate(160%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  border: 1px solid rgba(16, 185, 129, 0.15);
+  box-shadow: 0 1px rgba(255, 255, 255, 0.04) inset, 0 20px 60px -15px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(0, 0, 0, 0.3);
+}
+
+.stat-card {
+  position: relative;
+  cursor: default;
+  overflow: hidden;
+  border-radius: 1rem;
+  padding: 1.25rem;
+  text-align: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background: rgba(2, 46, 28, 0.5);
+  backdrop-filter: blur(24px) saturate(180%);
+  -webkit-backdrop-filter: blur(24px) saturate(180%);
+  border: 1px solid rgba(16, 185, 129, 0.15);
+  color: #f8fafc;
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.05), 0 1px 1px rgba(0, 0, 0, 0.01), 0 0 0 1px rgba(5, 150, 105, 0.05);
+}
+.stat-card:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.04) 0%, transparent 60%);
+  pointer-events: none;
+}
+.stat-card:hover {
+  border-color: rgba(250, 204, 21, 0.25);
+  transform: translateY(-4px);
+  box-shadow: 0 20px 60px -15px rgba(0, 0, 0, 0.7), 0 0 20px -5px rgba(250, 204, 21, 0.1);
+}
+
+.shimmer-text {
+  background: linear-gradient(90deg, #fbbf24, #fde68a 40%, #fbbf24 60%, #f59e0b);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shimmer 2.5s linear infinite;
+}
+
+.sep {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(16, 185, 129, 0.2), transparent);
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}

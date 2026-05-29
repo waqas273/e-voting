@@ -1,0 +1,5882 @@
+﻿[
+    {
+        "name":  "NA-257",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Killa Saifullah",
+        "constituencyName":  "Killa Saifullah-cum-Zhob-cum-Sherani"
+    },
+    {
+        "name":  "NA-258",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Loralai",
+        "constituencyName":  "Loralai-cum-Musa Khail-cum-Ziarat-cum-Dukki-cum-Harnai"
+    },
+    {
+        "name":  "NA-259",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Dera Bugti",
+        "constituencyName":  "Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri"
+    },
+    {
+        "name":  "NA-260",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Nasirabad",
+        "constituencyName":  "Nasirabad-cum-Kachhi-cum-Jhal Magsi"
+    },
+    {
+        "name":  "NA-261",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Jafarabad",
+        "constituencyName":  "Jafarabad-cum-Sohbatpur"
+    },
+    {
+        "name":  "NA-262",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Pishin",
+        "constituencyName":  "Pishin"
+    },
+    {
+        "name":  "NA-263",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Killa Abdullah",
+        "constituencyName":  "Killa Abdullah"
+    },
+    {
+        "name":  "NA-264",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-I"
+    },
+    {
+        "name":  "NA-265",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-II"
+    },
+    {
+        "name":  "NA-266",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-III"
+    },
+    {
+        "name":  "NA-267",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Mastung",
+        "constituencyName":  "Mastung-cum-Shaheed Sikandarabad-cum-Kalat"
+    },
+    {
+        "name":  "NA-268",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Chagai",
+        "constituencyName":  "Chagai-cum-Nushki-cum-Kharan"
+    },
+    {
+        "name":  "NA-269",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Khuzdar",
+        "constituencyName":  "Khuzdar"
+    },
+    {
+        "name":  "NA-270",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Panjgur",
+        "constituencyName":  "Panjgur-cum-Washuk-cum-Awaran"
+    },
+    {
+        "name":  "NA-271",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Kech",
+        "constituencyName":  "Kech"
+    },
+    {
+        "name":  "NA-272",
+        "type":  "national",
+        "province":  "Balochistan",
+        "district":  "Lasbela",
+        "constituencyName":  "Lasbela-cum-Gwadar"
+    },
+    {
+        "name":  "NA-52",
+        "type":  "national",
+        "province":  "Islamabad",
+        "district":  "Islamabad",
+        "constituencyName":  "Islamabad-I"
+    },
+    {
+        "name":  "NA-53",
+        "type":  "national",
+        "province":  "Islamabad",
+        "district":  "Islamabad",
+        "constituencyName":  "Islamabad-II"
+    },
+    {
+        "name":  "NA-54",
+        "type":  "national",
+        "province":  "Islamabad",
+        "district":  "Islamabad",
+        "constituencyName":  "Islamabad-III"
+    },
+    {
+        "name":  "NA-1",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Chitral",
+        "constituencyName":  "Chitral"
+    },
+    {
+        "name":  "NA-2",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-I"
+    },
+    {
+        "name":  "NA-3",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-II"
+    },
+    {
+        "name":  "NA-4",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-Ill"
+    },
+    {
+        "name":  "NA-5",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Upper Dir",
+        "constituencyName":  "Upper Dir"
+    },
+    {
+        "name":  "NA-6",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lower Dir",
+        "constituencyName":  "Lower Dir-I"
+    },
+    {
+        "name":  "NA-7",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lower Dir",
+        "constituencyName":  "Lower Dir-II"
+    },
+    {
+        "name":  "NA-8",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Malakand",
+        "constituencyName":  "Malakand"
+    },
+    {
+        "name":  "NA-9",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Buner",
+        "constituencyName":  "Buner"
+    },
+    {
+        "name":  "NA-10",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Shangla",
+        "constituencyName":  "Shangla"
+    },
+    {
+        "name":  "NA-11",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Kohistan",
+        "constituencyName":  "Kohistan-cum-Lower Kolai Pallas Kohistan"
+    },
+    {
+        "name":  "NA-12",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Battagram",
+        "constituencyName":  "Battagram"
+    },
+    {
+        "name":  "NA-13",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mansehra",
+        "constituencyName":  "Mansehra-I"
+    },
+    {
+        "name":  "NA-14",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mansehra",
+        "constituencyName":  "Mansehra-cum-Torghar"
+    },
+    {
+        "name":  "NA-15",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Abbottabad",
+        "constituencyName":  "Abbottabad-I"
+    },
+    {
+        "name":  "NA-16",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Abbottabad",
+        "constituencyName":  "Abbottabad-II"
+    },
+    {
+        "name":  "NA-17",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Haripur",
+        "constituencyName":  "Haripur"
+    },
+    {
+        "name":  "NA-18",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swabi",
+        "constituencyName":  "Swabi-I"
+    },
+    {
+        "name":  "NA-19",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swabi",
+        "constituencyName":  "Swabi-II"
+    },
+    {
+        "name":  "NA-20",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-I"
+    },
+    {
+        "name":  "NA-21",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-II"
+    },
+    {
+        "name":  "NA-22",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-III"
+    },
+    {
+        "name":  "NA-23",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Charsadda",
+        "constituencyName":  "Charsadda-I"
+    },
+    {
+        "name":  "NA-24",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Charsadda",
+        "constituencyName":  "Charsadda-II"
+    },
+    {
+        "name":  "NA-25",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Nowshera",
+        "constituencyName":  "Nowshera-I"
+    },
+    {
+        "name":  "NA-26",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Nowshera",
+        "constituencyName":  "Nowshera-II"
+    },
+    {
+        "name":  "NA-27",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-I"
+    },
+    {
+        "name":  "NA-28",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-II"
+    },
+    {
+        "name":  "NA-29",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-III"
+    },
+    {
+        "name":  "NA-30",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-IV"
+    },
+    {
+        "name":  "NA-31",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-V"
+    },
+    {
+        "name":  "NA-32",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Kohat",
+        "constituencyName":  "Kohat"
+    },
+    {
+        "name":  "NA-33",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Hangu",
+        "constituencyName":  "Hangu"
+    },
+    {
+        "name":  "NA-34",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Karak",
+        "constituencyName":  "Karak"
+    },
+    {
+        "name":  "NA-35",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Bannu",
+        "constituencyName":  "Bannu"
+    },
+    {
+        "name":  "NA-36",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lakki Marwat",
+        "constituencyName":  "Lakki Marwat"
+    },
+    {
+        "name":  "NA-37",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tank",
+        "constituencyName":  "Tank"
+    },
+    {
+        "name":  "NA-38",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Dera Ismail Khan",
+        "constituencyName":  "Dera Ismail Khan-I"
+    },
+    {
+        "name":  "NA-39",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Dera Ismail Khan",
+        "constituencyName":  "Dera Ismail Khan-II"
+    },
+    {
+        "name":  "NA-40",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - I"
+    },
+    {
+        "name":  "NA-41",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - II"
+    },
+    {
+        "name":  "NA-42",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - III"
+    },
+    {
+        "name":  "NA-43",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - IV"
+    },
+    {
+        "name":  "NA-44",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - V"
+    },
+    {
+        "name":  "NA-45",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - VI"
+    },
+    {
+        "name":  "NA-46",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - VII"
+    },
+    {
+        "name":  "NA-47",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - VIII"
+    },
+    {
+        "name":  "NA-48",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - IX"
+    },
+    {
+        "name":  "NA-49",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - X"
+    },
+    {
+        "name":  "NA-50",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - XI"
+    },
+    {
+        "name":  "NA-51",
+        "type":  "national",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tribal Area -",
+        "constituencyName":  "Tribal Area - XII"
+    },
+    {
+        "name":  "NA-55",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Attock",
+        "constituencyName":  "Attock-I"
+    },
+    {
+        "name":  "NA-56",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Attock",
+        "constituencyName":  "Attock-II"
+    },
+    {
+        "name":  "NA-57",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-I"
+    },
+    {
+        "name":  "NA-58",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-II"
+    },
+    {
+        "name":  "NA-59",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-III"
+    },
+    {
+        "name":  "NA-61",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-V"
+    },
+    {
+        "name":  "NA-62",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-VI"
+    },
+    {
+        "name":  "NA-63",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-VII"
+    },
+    {
+        "name":  "NA-64",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Chakwal",
+        "constituencyName":  "Chakwal-I"
+    },
+    {
+        "name":  "NA-65",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Chakwal",
+        "constituencyName":  "Chakwal-II"
+    },
+    {
+        "name":  "NA-66",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Jhelum",
+        "constituencyName":  "Jhelum-I"
+    },
+    {
+        "name":  "NA-67",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Jhelum",
+        "constituencyName":  "Jhelum-II"
+    },
+    {
+        "name":  "NA-68",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-I"
+    },
+    {
+        "name":  "NA-69",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-II"
+    },
+    {
+        "name":  "NA-70",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-III"
+    },
+    {
+        "name":  "NA-71",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-IV"
+    },
+    {
+        "name":  "NA-72",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-I"
+    },
+    {
+        "name":  "NA-73",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-II"
+    },
+    {
+        "name":  "NA-74",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-III"
+    },
+    {
+        "name":  "NA-75",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-IV"
+    },
+    {
+        "name":  "NA-76",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-V"
+    },
+    {
+        "name":  "NA-77",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Narowal",
+        "constituencyName":  "Narowal-I"
+    },
+    {
+        "name":  "NA-78",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Narowal",
+        "constituencyName":  "Narowal-II"
+    },
+    {
+        "name":  "NA-79",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-I"
+    },
+    {
+        "name":  "NA-80",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-II"
+    },
+    {
+        "name":  "NA-81",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-III"
+    },
+    {
+        "name":  "NA-82",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-IV"
+    },
+    {
+        "name":  "NA-83",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-V"
+    },
+    {
+        "name":  "NA-84",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-VI"
+    },
+    {
+        "name":  "NA-85",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Mandi Bahauddin",
+        "constituencyName":  "Mandi Bahauddin-I"
+    },
+    {
+        "name":  "NA-86",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Mandi Bahauddin",
+        "constituencyName":  "Mandi Bahauddin-II"
+    },
+    {
+        "name":  "NA-87",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Hafizabad",
+        "constituencyName":  "Hafizabad-I"
+    },
+    {
+        "name":  "NA-88",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-I"
+    },
+    {
+        "name":  "NA-89",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-II"
+    },
+    {
+        "name":  "NA-90",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-III"
+    },
+    {
+        "name":  "NA-91",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-IV"
+    },
+    {
+        "name":  "NA-92",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-V"
+    },
+    {
+        "name":  "NA-93",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Khushab",
+        "constituencyName":  "Khushab-I"
+    },
+    {
+        "name":  "NA-94",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Khushab",
+        "constituencyName":  "Khushab-II"
+    },
+    {
+        "name":  "NA-95",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Mianwali",
+        "constituencyName":  "Mianwali-I"
+    },
+    {
+        "name":  "NA-96",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Mianwali",
+        "constituencyName":  "Mianwali-II"
+    },
+    {
+        "name":  "NA-97",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bhakkar",
+        "constituencyName":  "Bhakkar-I"
+    },
+    {
+        "name":  "NA-98",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bhakkar",
+        "constituencyName":  "Bhakkar-II"
+    },
+    {
+        "name":  "NA-99",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Chiniot",
+        "constituencyName":  "Chiniot-I"
+    },
+    {
+        "name":  "NA-100",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Chiniot",
+        "constituencyName":  "Chiniot-II"
+    },
+    {
+        "name":  "NA-101",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-I"
+    },
+    {
+        "name":  "NA-102",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-II"
+    },
+    {
+        "name":  "NA-104",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-IV"
+    },
+    {
+        "name":  "NA-105",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-V"
+    },
+    {
+        "name":  "NA-106",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-VI"
+    },
+    {
+        "name":  "NA-107",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-VII"
+    },
+    {
+        "name":  "NA-108",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-VIII"
+    },
+    {
+        "name":  "NA-109",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-IX"
+    },
+    {
+        "name":  "NA-110",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-X"
+    },
+    {
+        "name":  "NA-111",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-I"
+    },
+    {
+        "name":  "NA-112",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-II"
+    },
+    {
+        "name":  "NA-113",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-III"
+    },
+    {
+        "name":  "NA-114",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-I"
+    },
+    {
+        "name":  "NA-115",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-II"
+    },
+    {
+        "name":  "NA-116",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-III"
+    },
+    {
+        "name":  "NA-117",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Nankana Sahib",
+        "constituencyName":  "Nankana Sahib-I"
+    },
+    {
+        "name":  "NA-118",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Nankana Sahib",
+        "constituencyName":  "Nankana Sahib-II"
+    },
+    {
+        "name":  "NA-119",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-I"
+    },
+    {
+        "name":  "NA-120",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-II"
+    },
+    {
+        "name":  "NA-121",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-III"
+    },
+    {
+        "name":  "NA-122",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-IV"
+    },
+    {
+        "name":  "NA-123",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-I"
+    },
+    {
+        "name":  "NA-124",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-II"
+    },
+    {
+        "name":  "NA-125",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-III"
+    },
+    {
+        "name":  "NA-126",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-IV"
+    },
+    {
+        "name":  "NA-127",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-V"
+    },
+    {
+        "name":  "NA-128",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-VI"
+    },
+    {
+        "name":  "NA-129",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-VII"
+    },
+    {
+        "name":  "NA-130",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-VIII"
+    },
+    {
+        "name":  "NA-131",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-IX"
+    },
+    {
+        "name":  "NA-132",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-X"
+    },
+    {
+        "name":  "NA-133",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XI"
+    },
+    {
+        "name":  "NA-134",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XII"
+    },
+    {
+        "name":  "NA-135",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XIII"
+    },
+    {
+        "name":  "NA-136",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XIV"
+    },
+    {
+        "name":  "NA-137",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-I"
+    },
+    {
+        "name":  "NA-138",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-II"
+    },
+    {
+        "name":  "NA-139",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-III"
+    },
+    {
+        "name":  "NA-140",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-IV"
+    },
+    {
+        "name":  "NA-141",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-I"
+    },
+    {
+        "name":  "NA-142",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-II"
+    },
+    {
+        "name":  "NA-143",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-III"
+    },
+    {
+        "name":  "NA-144",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-IV"
+    },
+    {
+        "name":  "NA-145",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Pakpattan",
+        "constituencyName":  "Pakpattan-I"
+    },
+    {
+        "name":  "NA-146",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Pakpattan",
+        "constituencyName":  "Pakpattan-II"
+    },
+    {
+        "name":  "NA-147",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-I"
+    },
+    {
+        "name":  "NA-148",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-II"
+    },
+    {
+        "name":  "NA-149",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-III"
+    },
+    {
+        "name":  "NA-150",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-I"
+    },
+    {
+        "name":  "NA-151",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-II"
+    },
+    {
+        "name":  "NA-152",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-III"
+    },
+    {
+        "name":  "NA-153",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-IV"
+    },
+    {
+        "name":  "NA-154",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-I"
+    },
+    {
+        "name":  "NA-155",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-II"
+    },
+    {
+        "name":  "NA-156",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-III"
+    },
+    {
+        "name":  "NA-157",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-IV"
+    },
+    {
+        "name":  "NA-158",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-V"
+    },
+    {
+        "name":  "NA-159",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-VI"
+    },
+    {
+        "name":  "NA-160",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lodhran",
+        "constituencyName":  "Lodhran-I"
+    },
+    {
+        "name":  "NA-161",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Lodhran",
+        "constituencyName":  "Lodhran-II"
+    },
+    {
+        "name":  "NA-162",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-I"
+    },
+    {
+        "name":  "NA-163",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-II"
+    },
+    {
+        "name":  "NA-164",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-III"
+    },
+    {
+        "name":  "NA-165",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-IV"
+    },
+    {
+        "name":  "NA-166",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-I"
+    },
+    {
+        "name":  "NA-167",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-II"
+    },
+    {
+        "name":  "NA-168",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-III"
+    },
+    {
+        "name":  "NA-169",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-IV"
+    },
+    {
+        "name":  "NA-170",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-I"
+    },
+    {
+        "name":  "NA-171",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-II"
+    },
+    {
+        "name":  "NA-172",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-III"
+    },
+    {
+        "name":  "NA-173",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-IV"
+    },
+    {
+        "name":  "NA-174",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-V"
+    },
+    {
+        "name":  "NA-175",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "RahimYar Khan",
+        "constituencyName":  "RahimYar Khan-I"
+    },
+    {
+        "name":  "NA-176",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "RahimYar Khan",
+        "constituencyName":  "RahimYar Khan-II"
+    },
+    {
+        "name":  "NA-177",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "RahimYar Khan",
+        "constituencyName":  "RahimYar Khan-III"
+    },
+    {
+        "name":  "NA-178",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "RahimYar Khan",
+        "constituencyName":  "RahimYar Khan-IV"
+    },
+    {
+        "name":  "NA-179",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "RahimYar Khan",
+        "constituencyName":  "RahimYar Khan-V"
+    },
+    {
+        "name":  "NA-180",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "RahimYar Khan",
+        "constituencyName":  "RahimYar Khan-VI"
+    },
+    {
+        "name":  "NA-181",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-I"
+    },
+    {
+        "name":  "NA-182",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-II"
+    },
+    {
+        "name":  "NA-183",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-III"
+    },
+    {
+        "name":  "NA-184",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-IV"
+    },
+    {
+        "name":  "NA-185",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-V"
+    },
+    {
+        "name":  "NA-186",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-VI"
+    },
+    {
+        "name":  "NA-187",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Layyah",
+        "constituencyName":  "Layyah-I"
+    },
+    {
+        "name":  "NA-188",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Layyah",
+        "constituencyName":  "Layyah-II"
+    },
+    {
+        "name":  "NA-189",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-I"
+    },
+    {
+        "name":  "NA-190",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-II"
+    },
+    {
+        "name":  "NA-191",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-III"
+    },
+    {
+        "name":  "NA-192",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-IV"
+    },
+    {
+        "name":  "NA-193",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rajanpur",
+        "constituencyName":  "Rajanpur-I"
+    },
+    {
+        "name":  "NA-194",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rajanpur",
+        "constituencyName":  "Rajanpur-II"
+    },
+    {
+        "name":  "NA-195",
+        "type":  "national",
+        "province":  "Punjab",
+        "district":  "Rajanpur",
+        "constituencyName":  "Rajanpur-III"
+    },
+    {
+        "name":  "NA-196",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Jacobabad",
+        "constituencyName":  "Jacobabad"
+    },
+    {
+        "name":  "NA-197",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Kashmore",
+        "constituencyName":  "Kashmore"
+    },
+    {
+        "name":  "NA-198",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Shikarpur",
+        "constituencyName":  "Shikarpur-I"
+    },
+    {
+        "name":  "NA-199",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Shikarpur",
+        "constituencyName":  "Shikarpur-II"
+    },
+    {
+        "name":  "NA-200",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Larkana",
+        "constituencyName":  "Larkana-I"
+    },
+    {
+        "name":  "NA-201",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Larkana",
+        "constituencyName":  "Larkana-II"
+    },
+    {
+        "name":  "NA-202",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Kamber Shahdadkot",
+        "constituencyName":  "Kamber Shahdadkot-I"
+    },
+    {
+        "name":  "NA-203",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Kamber Shahdadkot",
+        "constituencyName":  "Kamber Shahdadkot-II"
+    },
+    {
+        "name":  "NA-204",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Ghotki",
+        "constituencyName":  "Ghotki-I"
+    },
+    {
+        "name":  "NA-205",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Ghotki",
+        "constituencyName":  "Ghotki-II"
+    },
+    {
+        "name":  "NA-206",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Sukkur",
+        "constituencyName":  "Sukkur-I"
+    },
+    {
+        "name":  "NA-207",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Sukkur",
+        "constituencyName":  "Sukkur-II"
+    },
+    {
+        "name":  "NA-208",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-I"
+    },
+    {
+        "name":  "NA-209",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-II"
+    },
+    {
+        "name":  "NA-210",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-III"
+    },
+    {
+        "name":  "NA-211",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Naushahro Feroze",
+        "constituencyName":  "Naushahro Feroze-I"
+    },
+    {
+        "name":  "NA-212",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Naushahro Feroze",
+        "constituencyName":  "Naushahro Feroze-II"
+    },
+    {
+        "name":  "NA-213",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Shaheed Benazirabad",
+        "constituencyName":  "Shaheed Benazirabad-I"
+    },
+    {
+        "name":  "NA-214",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Shaheed Benazirabad",
+        "constituencyName":  "Shaheed Benazirabad-II"
+    },
+    {
+        "name":  "NA-215",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-I"
+    },
+    {
+        "name":  "NA-216",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-II"
+    },
+    {
+        "name":  "NA-217",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-III"
+    },
+    {
+        "name":  "NA-218",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Mirpurkhas",
+        "constituencyName":  "Mirpurkhas-I"
+    },
+    {
+        "name":  "NA-219",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Mirpurkhas",
+        "constituencyName":  "Mirpurkhas-II"
+    },
+    {
+        "name":  "NA-220",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Umerkot",
+        "constituencyName":  "Umerkot"
+    },
+    {
+        "name":  "NA-221",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Tharparkar",
+        "constituencyName":  "Tharparkar-I"
+    },
+    {
+        "name":  "NA-222",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Tharparkar",
+        "constituencyName":  "Tharparkar-II"
+    },
+    {
+        "name":  "NA-223",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Matiari",
+        "constituencyName":  "Matiari"
+    },
+    {
+        "name":  "NA-224",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Tando Allahyar",
+        "constituencyName":  "Tando Allahyar"
+    },
+    {
+        "name":  "NA-225",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-I"
+    },
+    {
+        "name":  "NA-226",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-II"
+    },
+    {
+        "name":  "NA-227",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-III"
+    },
+    {
+        "name":  "NA-228",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Tando Muhammad Khan",
+        "constituencyName":  "Tando Muhammad Khan"
+    },
+    {
+        "name":  "NA-229",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Badin",
+        "constituencyName":  "Badin-I"
+    },
+    {
+        "name":  "NA-230",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Badin",
+        "constituencyName":  "Badin-II"
+    },
+    {
+        "name":  "NA-231",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Sujawal",
+        "constituencyName":  "Sujawal"
+    },
+    {
+        "name":  "NA-232",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Thatta",
+        "constituencyName":  "Thatta"
+    },
+    {
+        "name":  "NA-233",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Jamshoro",
+        "constituencyName":  "Jamshoro"
+    },
+    {
+        "name":  "NA-234",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Dadu",
+        "constituencyName":  "Dadu-I"
+    },
+    {
+        "name":  "NA-235",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Dadu",
+        "constituencyName":  "Dadu-II"
+    },
+    {
+        "name":  "NA-236",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Malir",
+        "constituencyName":  "Malir-I"
+    },
+    {
+        "name":  "NA-237",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Malir",
+        "constituencyName":  "Malir-II"
+    },
+    {
+        "name":  "NA-238",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Malir",
+        "constituencyName":  "Malir-III"
+    },
+    {
+        "name":  "NA-239",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-I"
+    },
+    {
+        "name":  "NA-240",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-II"
+    },
+    {
+        "name":  "NA-241",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-III"
+    },
+    {
+        "name":  "NA-242",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-I"
+    },
+    {
+        "name":  "NA-243",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-II"
+    },
+    {
+        "name":  "NA-244",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-III"
+    },
+    {
+        "name":  "NA-245",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-IV"
+    },
+    {
+        "name":  "NA-246",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi South",
+        "constituencyName":  "Karachi South-I"
+    },
+    {
+        "name":  "NA-247",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi South",
+        "constituencyName":  "Karachi South-II"
+    },
+    {
+        "name":  "NA-248",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-I"
+    },
+    {
+        "name":  "NA-249",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-II"
+    },
+    {
+        "name":  "NA-250",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-III"
+    },
+    {
+        "name":  "NA-251",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-IV"
+    },
+    {
+        "name":  "NA-252",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-V"
+    },
+    {
+        "name":  "NA-253",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-I"
+    },
+    {
+        "name":  "NA-254",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-II"
+    },
+    {
+        "name":  "NA-255",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-III"
+    },
+    {
+        "name":  "NA-256",
+        "type":  "national",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-IV"
+    },
+    {
+        "name":  "PB-1",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Musakhail",
+        "constituencyName":  "Musakhail-cum-Sherani"
+    },
+    {
+        "name":  "PB-2",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Zhob",
+        "constituencyName":  "Zhob"
+    },
+    {
+        "name":  "PB-3",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Killa Saifullah",
+        "constituencyName":  "Killa Saifullah"
+    },
+    {
+        "name":  "PB-4",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Loralai",
+        "constituencyName":  "Loralai"
+    },
+    {
+        "name":  "PB-5",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Duki",
+        "constituencyName":  "Duki"
+    },
+    {
+        "name":  "PB-6",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Ziarat",
+        "constituencyName":  "Ziarat-cum-Harnai"
+    },
+    {
+        "name":  "PB-7",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Sibi",
+        "constituencyName":  "Sibi-cum-Lehri"
+    },
+    {
+        "name":  "PB-8",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Barkhan",
+        "constituencyName":  "Barkhan"
+    },
+    {
+        "name":  "PB-9",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Kohlu",
+        "constituencyName":  "Kohlu"
+    },
+    {
+        "name":  "PB-10",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Dera Bugti",
+        "constituencyName":  "Dera Bugti"
+    },
+    {
+        "name":  "PB-11",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Nasirabad",
+        "constituencyName":  "Nasirabad-I"
+    },
+    {
+        "name":  "PB-12",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Nasirabad",
+        "constituencyName":  "Nasirabad-II"
+    },
+    {
+        "name":  "PB-13",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Jaffarabad",
+        "constituencyName":  "Jaffarabad-I"
+    },
+    {
+        "name":  "PB-14",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Jaffarabad",
+        "constituencyName":  "Jaffarabad-II"
+    },
+    {
+        "name":  "PB-15",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Sohbat Pur",
+        "constituencyName":  "Sohbat Pur"
+    },
+    {
+        "name":  "PB-16",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Jhall Magsi",
+        "constituencyName":  "Jhall Magsi"
+    },
+    {
+        "name":  "PB-17",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Kachhi",
+        "constituencyName":  "Kachhi"
+    },
+    {
+        "name":  "PB-18",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Pishin",
+        "constituencyName":  "Pishin-I"
+    },
+    {
+        "name":  "PB-19",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Pishin",
+        "constituencyName":  "Pishin-II"
+    },
+    {
+        "name":  "PB-20",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Pishin",
+        "constituencyName":  "Pishin-III"
+    },
+    {
+        "name":  "PB-21",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Killa Abdullah",
+        "constituencyName":  "Killa Abdullah-I"
+    },
+    {
+        "name":  "PB-22",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Killa Abdullah",
+        "constituencyName":  "Killa Abdullah-II"
+    },
+    {
+        "name":  "PB-23",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Killa Abdullah",
+        "constituencyName":  "Killa Abdullah-III"
+    },
+    {
+        "name":  "PB-24",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-I"
+    },
+    {
+        "name":  "PB-25",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-II"
+    },
+    {
+        "name":  "PB-26",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-III"
+    },
+    {
+        "name":  "PB-27",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-IV"
+    },
+    {
+        "name":  "PB-28",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-V"
+    },
+    {
+        "name":  "PB-29",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-VI"
+    },
+    {
+        "name":  "PB-30",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-VII"
+    },
+    {
+        "name":  "PB-31",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-VIII"
+    },
+    {
+        "name":  "PB-32",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Quetta",
+        "constituencyName":  "Quetta-IX"
+    },
+    {
+        "name":  "PB-33",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Nushki",
+        "constituencyName":  "Nushki"
+    },
+    {
+        "name":  "PB-34",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Chagai",
+        "constituencyName":  "Chagai"
+    },
+    {
+        "name":  "PB-36",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Shaheed Sikandarabad",
+        "constituencyName":  "Shaheed Sikandarabad"
+    },
+    {
+        "name":  "PB-37",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Kalat",
+        "constituencyName":  "Kalat"
+    },
+    {
+        "name":  "PB-38",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Khuzdar",
+        "constituencyName":  "Khuzdar-I"
+    },
+    {
+        "name":  "PB-39",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Khuzdar",
+        "constituencyName":  "Khuzdar-II"
+    },
+    {
+        "name":  "PB-40",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Khuzdar",
+        "constituencyName":  "Khuzdar-III"
+    },
+    {
+        "name":  "PB-41",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Washuk",
+        "constituencyName":  "Washuk"
+    },
+    {
+        "name":  "PB-42",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Kharan",
+        "constituencyName":  "Kharan"
+    },
+    {
+        "name":  "PB-43",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Panjgur",
+        "constituencyName":  "Panjgur"
+    },
+    {
+        "name":  "PB-44",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Awaran",
+        "constituencyName":  "Awaran-cum-Panjgur"
+    },
+    {
+        "name":  "PB-45",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Kech",
+        "constituencyName":  "Kech-I"
+    },
+    {
+        "name":  "PB-46",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Kech",
+        "constituencyName":  "Kech-II"
+    },
+    {
+        "name":  "PB-47",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Kech",
+        "constituencyName":  "Kech-III"
+    },
+    {
+        "name":  "PB-48",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Kech",
+        "constituencyName":  "Kech-IV"
+    },
+    {
+        "name":  "PB-49",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Lasbela",
+        "constituencyName":  "Lasbela-I"
+    },
+    {
+        "name":  "PB-50",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Lasbela",
+        "constituencyName":  "Lasbela-II"
+    },
+    {
+        "name":  "PB-51",
+        "type":  "provincial",
+        "province":  "Balochistan",
+        "district":  "Gwadar",
+        "constituencyName":  "Gwadar"
+    },
+    {
+        "name":  "PK-1",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Chitral",
+        "constituencyName":  "Chitral"
+    },
+    {
+        "name":  "PK-2",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-I"
+    },
+    {
+        "name":  "PK-3",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-II"
+    },
+    {
+        "name":  "PK-4",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-III"
+    },
+    {
+        "name":  "PK-5",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-IV"
+    },
+    {
+        "name":  "PK-6",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-V"
+    },
+    {
+        "name":  "PK-7",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-VI"
+    },
+    {
+        "name":  "PK-8",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-VII"
+    },
+    {
+        "name":  "PK-9",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swat",
+        "constituencyName":  "Swat-VIII"
+    },
+    {
+        "name":  "PK-10",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Upper Dir",
+        "constituencyName":  "Upper Dir-I"
+    },
+    {
+        "name":  "PK-11",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Upper Dir",
+        "constituencyName":  "Upper Dir-II"
+    },
+    {
+        "name":  "PK-12",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Upper Dir",
+        "constituencyName":  "Upper Dir-III"
+    },
+    {
+        "name":  "PK-13",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lower Dir",
+        "constituencyName":  "Lower Dir-I"
+    },
+    {
+        "name":  "PK-14",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lower Dir",
+        "constituencyName":  "Lower Dir-II"
+    },
+    {
+        "name":  "PK-15",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lower Dir",
+        "constituencyName":  "Lower Dir-III"
+    },
+    {
+        "name":  "PK-16",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lower Dir",
+        "constituencyName":  "Lower Dir-IV"
+    },
+    {
+        "name":  "PK-17",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lower Dir",
+        "constituencyName":  "Lower Dir-V"
+    },
+    {
+        "name":  "PK-18",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Malakand Protected Area",
+        "constituencyName":  "Malakand Protected Area-I"
+    },
+    {
+        "name":  "PK-19",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Malakand Protected Area",
+        "constituencyName":  "Malakand Protected Area-II"
+    },
+    {
+        "name":  "PK-20",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Buner",
+        "constituencyName":  "Buner-I"
+    },
+    {
+        "name":  "PK-21",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Buner",
+        "constituencyName":  "Buner-II"
+    },
+    {
+        "name":  "PK-22",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Buner",
+        "constituencyName":  "Buner-III"
+    },
+    {
+        "name":  "PK-23",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Shangla",
+        "constituencyName":  "Shangla-I"
+    },
+    {
+        "name":  "PK-24",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Shangla",
+        "constituencyName":  "Shangla-II"
+    },
+    {
+        "name":  "PK-25",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Kohistan",
+        "constituencyName":  "Kohistan"
+    },
+    {
+        "name":  "PK-26",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Kohistan Lower",
+        "constituencyName":  "Kohistan Lower"
+    },
+    {
+        "name":  "PK-27",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Kolai Palas Kohistan",
+        "constituencyName":  "Kolai Palas Kohistan"
+    },
+    {
+        "name":  "PK-28",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Battagram",
+        "constituencyName":  "Battagram-I"
+    },
+    {
+        "name":  "PK-29",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Battagram",
+        "constituencyName":  "Battagram-II"
+    },
+    {
+        "name":  "PK-30",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mansehra",
+        "constituencyName":  "Mansehra-I"
+    },
+    {
+        "name":  "PK-31",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mansehra",
+        "constituencyName":  "Mansehra-II"
+    },
+    {
+        "name":  "PK-32",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mansehra",
+        "constituencyName":  "Mansehra-III"
+    },
+    {
+        "name":  "PK-33",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mansehra",
+        "constituencyName":  "Mansehra-IV"
+    },
+    {
+        "name":  "PK-34",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mansehra",
+        "constituencyName":  "Mansehra-V"
+    },
+    {
+        "name":  "PK-35",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Torghar",
+        "constituencyName":  "Torghar"
+    },
+    {
+        "name":  "PK-36",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Abbottabad",
+        "constituencyName":  "Abbottabad-I"
+    },
+    {
+        "name":  "PK-37",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Abbottabad",
+        "constituencyName":  "Abbottabad-II"
+    },
+    {
+        "name":  "PK-38",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Abbottabad",
+        "constituencyName":  "Abbottabad-III"
+    },
+    {
+        "name":  "PK-39",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Abbottabad",
+        "constituencyName":  "Abbottabad-IV"
+    },
+    {
+        "name":  "PK-40",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Haripur",
+        "constituencyName":  "Haripur-I"
+    },
+    {
+        "name":  "PK-41",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Haripur",
+        "constituencyName":  "Haripur-II"
+    },
+    {
+        "name":  "PK-42",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Haripur",
+        "constituencyName":  "Haripur-III"
+    },
+    {
+        "name":  "PK-43",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swabi",
+        "constituencyName":  "Swabi-I"
+    },
+    {
+        "name":  "PK-44",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swabi",
+        "constituencyName":  "Swabi-II"
+    },
+    {
+        "name":  "PK-45",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swabi",
+        "constituencyName":  "Swabi-III"
+    },
+    {
+        "name":  "PK-46",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swabi",
+        "constituencyName":  "Swabi-IV"
+    },
+    {
+        "name":  "PK-47",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Swabi",
+        "constituencyName":  "Swabi-V"
+    },
+    {
+        "name":  "PK-48",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-I"
+    },
+    {
+        "name":  "PK-49",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-II"
+    },
+    {
+        "name":  "PK-50",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-III"
+    },
+    {
+        "name":  "PK-51",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-IV"
+    },
+    {
+        "name":  "PK-52",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-V"
+    },
+    {
+        "name":  "PK-53",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-VI"
+    },
+    {
+        "name":  "PK-54",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-VII"
+    },
+    {
+        "name":  "PK-55",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Mardan",
+        "constituencyName":  "Mardan-VIII"
+    },
+    {
+        "name":  "PK-56",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Charsadda",
+        "constituencyName":  "Charsadda-I"
+    },
+    {
+        "name":  "PK-57",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Charsadda",
+        "constituencyName":  "Charsadda-II"
+    },
+    {
+        "name":  "PK-58",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Charsadda",
+        "constituencyName":  "Charsadda-III"
+    },
+    {
+        "name":  "PK-59",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Charsadda",
+        "constituencyName":  "Charsadda-IV"
+    },
+    {
+        "name":  "PK-60",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Charsadda",
+        "constituencyName":  "Charsadda-V"
+    },
+    {
+        "name":  "PK-61",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Nowshehra",
+        "constituencyName":  "Nowshehra-I"
+    },
+    {
+        "name":  "PK-62",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Nowshehra",
+        "constituencyName":  "Nowshehra-II"
+    },
+    {
+        "name":  "PK-63",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Nowshehra",
+        "constituencyName":  "Nowshehra-III"
+    },
+    {
+        "name":  "PK-64",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Nowshehra",
+        "constituencyName":  "Nowshehra-IV"
+    },
+    {
+        "name":  "PK-65",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Nowshehra",
+        "constituencyName":  "Nowshehra-V"
+    },
+    {
+        "name":  "PK-66",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-I"
+    },
+    {
+        "name":  "PK-67",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-II"
+    },
+    {
+        "name":  "PK-68",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-III"
+    },
+    {
+        "name":  "PK-69",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-IV"
+    },
+    {
+        "name":  "PK-70",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-V"
+    },
+    {
+        "name":  "PK-71",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-VI"
+    },
+    {
+        "name":  "PK-72",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-VII"
+    },
+    {
+        "name":  "PK-73",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-VIII"
+    },
+    {
+        "name":  "PK-74",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-IX"
+    },
+    {
+        "name":  "PK-75",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-X"
+    },
+    {
+        "name":  "PK-76",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-XI"
+    },
+    {
+        "name":  "PK-77",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-XII"
+    },
+    {
+        "name":  "PK-79",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Peshawar",
+        "constituencyName":  "Peshawar-XIV"
+    },
+    {
+        "name":  "PK-80",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Kohat",
+        "constituencyName":  "Kohat-I"
+    },
+    {
+        "name":  "PK-81",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Kohat",
+        "constituencyName":  "Kohat-II"
+    },
+    {
+        "name":  "PK-82",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Kohat",
+        "constituencyName":  "Kohat-III"
+    },
+    {
+        "name":  "PK-83",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Hangu",
+        "constituencyName":  "Hangu-I"
+    },
+    {
+        "name":  "PK-84",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Hangu",
+        "constituencyName":  "Hangu-II"
+    },
+    {
+        "name":  "PK-85",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Karak",
+        "constituencyName":  "Karak-I"
+    },
+    {
+        "name":  "PK-86",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Karak",
+        "constituencyName":  "Karak-II"
+    },
+    {
+        "name":  "PK-87",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Bannu",
+        "constituencyName":  "Bannu-I"
+    },
+    {
+        "name":  "PK-88",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Bannu",
+        "constituencyName":  "Bannu-II"
+    },
+    {
+        "name":  "PK-89",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Bannu",
+        "constituencyName":  "Bannu-III"
+    },
+    {
+        "name":  "PK-90",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Bannu",
+        "constituencyName":  "Bannu-IV"
+    },
+    {
+        "name":  "PK-91",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lakki Marwat",
+        "constituencyName":  "Lakki Marwat-I"
+    },
+    {
+        "name":  "PK-92",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lakki Marwat",
+        "constituencyName":  "Lakki Marwat-II"
+    },
+    {
+        "name":  "PK-93",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Lakki Marwat",
+        "constituencyName":  "Lakki Marwat-III"
+    },
+    {
+        "name":  "PK-94",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Tank",
+        "constituencyName":  "Tank"
+    },
+    {
+        "name":  "PK-95",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Dera Ismail Khan",
+        "constituencyName":  "Dera Ismail Khan-I"
+    },
+    {
+        "name":  "PK-96",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Dera Ismail Khan",
+        "constituencyName":  "Dera Ismail Khan-II"
+    },
+    {
+        "name":  "PK-97",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Dera Ismail Khan",
+        "constituencyName":  "Dera Ismail Khan-III"
+    },
+    {
+        "name":  "PK-98",
+        "type":  "provincial",
+        "province":  "Khyber Paktunkhwa",
+        "district":  "Dera Ismail Khan",
+        "constituencyName":  "Dera Ismail Khan-IV"
+    },
+    {
+        "name":  "PP-1",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Attock",
+        "constituencyName":  "Attock-I"
+    },
+    {
+        "name":  "PP-2",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Attock",
+        "constituencyName":  "Attock-II"
+    },
+    {
+        "name":  "PP-3",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Attock",
+        "constituencyName":  "Attock-III"
+    },
+    {
+        "name":  "PP-4",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Attock",
+        "constituencyName":  "Attock-IV"
+    },
+    {
+        "name":  "PP-5",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Attock",
+        "constituencyName":  "Attock-V"
+    },
+    {
+        "name":  "PP-6",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-I"
+    },
+    {
+        "name":  "PP-7",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-II"
+    },
+    {
+        "name":  "PP-8",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-III"
+    },
+    {
+        "name":  "PP-9",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-IV"
+    },
+    {
+        "name":  "PP-10",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-V"
+    },
+    {
+        "name":  "PP-11",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-VI"
+    },
+    {
+        "name":  "PP-12",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-VII"
+    },
+    {
+        "name":  "PP-13",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-VIII"
+    },
+    {
+        "name":  "PP-14",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-IX"
+    },
+    {
+        "name":  "PP-15",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-X"
+    },
+    {
+        "name":  "PP-16",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-XI"
+    },
+    {
+        "name":  "PP-17",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-XII"
+    },
+    {
+        "name":  "PP-18",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-XIII"
+    },
+    {
+        "name":  "PP-19",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-XIV"
+    },
+    {
+        "name":  "PP-20",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rawalpindi",
+        "constituencyName":  "Rawalpindi-XV"
+    },
+    {
+        "name":  "PP-21",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Chakwal",
+        "constituencyName":  "Chakwal-I"
+    },
+    {
+        "name":  "PP-22",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Chakwal",
+        "constituencyName":  "Chakwal-II"
+    },
+    {
+        "name":  "PP-23",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Chakwal",
+        "constituencyName":  "Chakwal-III"
+    },
+    {
+        "name":  "PP-24",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Chakwal",
+        "constituencyName":  "Chakwal-IV"
+    },
+    {
+        "name":  "PP-25",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhelum",
+        "constituencyName":  "Jhelum-I"
+    },
+    {
+        "name":  "PP-26",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhelum",
+        "constituencyName":  "Jhelum-II"
+    },
+    {
+        "name":  "PP-27",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhelum",
+        "constituencyName":  "Jhelum-III"
+    },
+    {
+        "name":  "PP-28",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-I"
+    },
+    {
+        "name":  "PP-29",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-II"
+    },
+    {
+        "name":  "PP-30",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-III"
+    },
+    {
+        "name":  "PP-31",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-IV"
+    },
+    {
+        "name":  "PP-32",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-V"
+    },
+    {
+        "name":  "PP-33",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-VI"
+    },
+    {
+        "name":  "PP-34",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujrat",
+        "constituencyName":  "Gujrat-VII"
+    },
+    {
+        "name":  "PP-35",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-I"
+    },
+    {
+        "name":  "PP-36",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-II"
+    },
+    {
+        "name":  "PP-37",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-III"
+    },
+    {
+        "name":  "PP-38",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-IV"
+    },
+    {
+        "name":  "PP-39",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-V"
+    },
+    {
+        "name":  "PP-40",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-VI"
+    },
+    {
+        "name":  "PP-41",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-VII"
+    },
+    {
+        "name":  "PP-42",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-VIII"
+    },
+    {
+        "name":  "PP-43",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-IX"
+    },
+    {
+        "name":  "PP-44",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-X"
+    },
+    {
+        "name":  "PP-45",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sialkot",
+        "constituencyName":  "Sialkot-XI"
+    },
+    {
+        "name":  "PP-46",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Narowal",
+        "constituencyName":  "Narowal-I"
+    },
+    {
+        "name":  "PP-47",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Narowal",
+        "constituencyName":  "Narowal-II"
+    },
+    {
+        "name":  "PP-48",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Narowal",
+        "constituencyName":  "Narowal-III"
+    },
+    {
+        "name":  "PP-49",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Narowal",
+        "constituencyName":  "Narowal-IV"
+    },
+    {
+        "name":  "PP-50",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Narowal",
+        "constituencyName":  "Narowal-V"
+    },
+    {
+        "name":  "PP-51",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-I"
+    },
+    {
+        "name":  "PP-52",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-II"
+    },
+    {
+        "name":  "PP-53",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-III"
+    },
+    {
+        "name":  "PP-54",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-IV"
+    },
+    {
+        "name":  "PP-55",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-V"
+    },
+    {
+        "name":  "PP-56",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-VI"
+    },
+    {
+        "name":  "PP-57",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-VII"
+    },
+    {
+        "name":  "PP-58",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-VIII"
+    },
+    {
+        "name":  "PP-59",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-IX"
+    },
+    {
+        "name":  "PP-60",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-X"
+    },
+    {
+        "name":  "PP-61",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-XI"
+    },
+    {
+        "name":  "PP-62",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-XII"
+    },
+    {
+        "name":  "PP-63",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-XIII"
+    },
+    {
+        "name":  "PP-64",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Gujranwala",
+        "constituencyName":  "Gujranwala-XIV"
+    },
+    {
+        "name":  "PP-65",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Mandi Bahauddin",
+        "constituencyName":  "Mandi Bahauddin-I"
+    },
+    {
+        "name":  "PP-66",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Mandi Bahauddin",
+        "constituencyName":  "Mandi Bahauddin-II"
+    },
+    {
+        "name":  "PP-67",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Mandi Bahauddin",
+        "constituencyName":  "Mandi Bahauddin-III"
+    },
+    {
+        "name":  "PP-68",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Mandi Bahauddin",
+        "constituencyName":  "Mandi Bahauddin-IV"
+    },
+    {
+        "name":  "PP-69",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Hafizabad",
+        "constituencyName":  "Hafizabad-I"
+    },
+    {
+        "name":  "PP-70",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Hafizabad",
+        "constituencyName":  "Hafizabad-II"
+    },
+    {
+        "name":  "PP-71",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Hafizabad",
+        "constituencyName":  "Hafizabad-III"
+    },
+    {
+        "name":  "PP-72",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-I"
+    },
+    {
+        "name":  "PP-73",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-II"
+    },
+    {
+        "name":  "PP-74",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-III"
+    },
+    {
+        "name":  "PP-75",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-IV"
+    },
+    {
+        "name":  "PP-76",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-V"
+    },
+    {
+        "name":  "PP-77",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-VI"
+    },
+    {
+        "name":  "PP-78",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-VII"
+    },
+    {
+        "name":  "PP-79",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-VIII"
+    },
+    {
+        "name":  "PP-80",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-IX"
+    },
+    {
+        "name":  "PP-81",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sargodha",
+        "constituencyName":  "Sargodha-X"
+    },
+    {
+        "name":  "PP-82",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khushab",
+        "constituencyName":  "Khushab-I"
+    },
+    {
+        "name":  "PP-83",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khushab",
+        "constituencyName":  "Khushab-II"
+    },
+    {
+        "name":  "PP-84",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khushab",
+        "constituencyName":  "Khushab-III"
+    },
+    {
+        "name":  "PP-85",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Mianwali",
+        "constituencyName":  "Mianwali-I"
+    },
+    {
+        "name":  "PP-86",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Mianwali",
+        "constituencyName":  "Mianwali-II"
+    },
+    {
+        "name":  "PP-88",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Mianwali",
+        "constituencyName":  "Mianwali-IV"
+    },
+    {
+        "name":  "PP-89",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bhakkar",
+        "constituencyName":  "Bhakkar-I"
+    },
+    {
+        "name":  "PP-90",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bhakkar",
+        "constituencyName":  "Bhakkar-II"
+    },
+    {
+        "name":  "PP-91",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bhakkar",
+        "constituencyName":  "Bhakkar-III"
+    },
+    {
+        "name":  "PP-92",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bhakkar",
+        "constituencyName":  "Bhakkar-IV"
+    },
+    {
+        "name":  "PP-93",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Chiniot",
+        "constituencyName":  "Chiniot-I"
+    },
+    {
+        "name":  "PP-94",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Chiniot",
+        "constituencyName":  "Chiniot-II"
+    },
+    {
+        "name":  "PP-95",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Chiniot",
+        "constituencyName":  "Chiniot-III"
+    },
+    {
+        "name":  "PP-96",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Chiniot",
+        "constituencyName":  "Chiniot-IV"
+    },
+    {
+        "name":  "PP-97",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-I"
+    },
+    {
+        "name":  "PP-98",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-II"
+    },
+    {
+        "name":  "PP-99",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-III"
+    },
+    {
+        "name":  "PP-100",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-IV"
+    },
+    {
+        "name":  "PP-101",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-V"
+    },
+    {
+        "name":  "PP-102",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-VI"
+    },
+    {
+        "name":  "PP-104",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-VIII"
+    },
+    {
+        "name":  "PP-105",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-IX"
+    },
+    {
+        "name":  "PP-106",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-X"
+    },
+    {
+        "name":  "PP-107",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XI"
+    },
+    {
+        "name":  "PP-108",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XII"
+    },
+    {
+        "name":  "PP-109",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XIII"
+    },
+    {
+        "name":  "PP-110",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XIV"
+    },
+    {
+        "name":  "PP-111",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XV"
+    },
+    {
+        "name":  "PP-112",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XVI"
+    },
+    {
+        "name":  "PP-113",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XVII"
+    },
+    {
+        "name":  "PP-114",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XVIII"
+    },
+    {
+        "name":  "PP-115",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XIX"
+    },
+    {
+        "name":  "PP-116",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XX"
+    },
+    {
+        "name":  "PP-117",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Faisalabad",
+        "constituencyName":  "Faisalabad-XXI"
+    },
+    {
+        "name":  "PP-118",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-I"
+    },
+    {
+        "name":  "PP-119",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-II"
+    },
+    {
+        "name":  "PP-120",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-III"
+    },
+    {
+        "name":  "PP-121",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-IV"
+    },
+    {
+        "name":  "PP-122",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-V"
+    },
+    {
+        "name":  "PP-123",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Toba Tek Singh",
+        "constituencyName":  "Toba Tek Singh-VI"
+    },
+    {
+        "name":  "PP-124",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-I"
+    },
+    {
+        "name":  "PP-125",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-II"
+    },
+    {
+        "name":  "PP-126",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-III"
+    },
+    {
+        "name":  "PP-127",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-IV"
+    },
+    {
+        "name":  "PP-128",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-V"
+    },
+    {
+        "name":  "PP-129",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-VI"
+    },
+    {
+        "name":  "PP-130",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Jhang",
+        "constituencyName":  "Jhang-VII"
+    },
+    {
+        "name":  "PP-131",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Nankana Sahib",
+        "constituencyName":  "Nankana Sahib-I"
+    },
+    {
+        "name":  "PP-132",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Nankana Sahib",
+        "constituencyName":  "Nankana Sahib-II"
+    },
+    {
+        "name":  "PP-133",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Nankana Sahib",
+        "constituencyName":  "Nankana Sahib-III"
+    },
+    {
+        "name":  "PP-134",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Nankana Sahib",
+        "constituencyName":  "Nankana Sahib-IV"
+    },
+    {
+        "name":  "PP-135",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-I"
+    },
+    {
+        "name":  "PP-136",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-II"
+    },
+    {
+        "name":  "PP-137",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-III"
+    },
+    {
+        "name":  "PP-138",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-IV"
+    },
+    {
+        "name":  "PP-139",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-V"
+    },
+    {
+        "name":  "PP-140",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-VI"
+    },
+    {
+        "name":  "PP-141",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-VII"
+    },
+    {
+        "name":  "PP-142",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-VIII"
+    },
+    {
+        "name":  "PP-143",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sheikhupura",
+        "constituencyName":  "Sheikhupura-IX"
+    },
+    {
+        "name":  "PP-144",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-I"
+    },
+    {
+        "name":  "PP-145",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-II"
+    },
+    {
+        "name":  "PP-146",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-III"
+    },
+    {
+        "name":  "PP-147",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-IV"
+    },
+    {
+        "name":  "PP-148",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-V"
+    },
+    {
+        "name":  "PP-149",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-VI"
+    },
+    {
+        "name":  "PP-150",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-VII"
+    },
+    {
+        "name":  "PP-151",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-VIII"
+    },
+    {
+        "name":  "PP-152",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-IX"
+    },
+    {
+        "name":  "PP-153",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-X"
+    },
+    {
+        "name":  "PP-154",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XI"
+    },
+    {
+        "name":  "PP-155",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XII"
+    },
+    {
+        "name":  "PP-156",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XIII"
+    },
+    {
+        "name":  "PP-157",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XIV"
+    },
+    {
+        "name":  "PP-158",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XV"
+    },
+    {
+        "name":  "PP-159",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XVI"
+    },
+    {
+        "name":  "PP-160",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XVII"
+    },
+    {
+        "name":  "PP-161",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XVIII"
+    },
+    {
+        "name":  "PP-162",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XIX"
+    },
+    {
+        "name":  "PP-163",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XX"
+    },
+    {
+        "name":  "PP-164",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXI"
+    },
+    {
+        "name":  "PP-165",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXII"
+    },
+    {
+        "name":  "PP-166",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXIII"
+    },
+    {
+        "name":  "PP-167",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXIV"
+    },
+    {
+        "name":  "PP-168",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXV"
+    },
+    {
+        "name":  "PP-169",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXVI"
+    },
+    {
+        "name":  "PP-170",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXVII"
+    },
+    {
+        "name":  "PP-171",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXVIII"
+    },
+    {
+        "name":  "PP-172",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXIX"
+    },
+    {
+        "name":  "PP-173",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lahore",
+        "constituencyName":  "Lahore-XXX"
+    },
+    {
+        "name":  "PP-174",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-I"
+    },
+    {
+        "name":  "PP-175",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-II"
+    },
+    {
+        "name":  "PP-176",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-III"
+    },
+    {
+        "name":  "PP-177",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-IV"
+    },
+    {
+        "name":  "PP-178",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-V"
+    },
+    {
+        "name":  "PP-179",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-VI"
+    },
+    {
+        "name":  "PP-180",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-VII"
+    },
+    {
+        "name":  "PP-181",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-VIII"
+    },
+    {
+        "name":  "PP-182",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Kasur",
+        "constituencyName":  "Kasur-IX"
+    },
+    {
+        "name":  "PP-183",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-I"
+    },
+    {
+        "name":  "PP-184",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-II"
+    },
+    {
+        "name":  "PP-185",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-III"
+    },
+    {
+        "name":  "PP-186",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-IV"
+    },
+    {
+        "name":  "PP-187",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-V"
+    },
+    {
+        "name":  "PP-188",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-VI"
+    },
+    {
+        "name":  "PP-189",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-VII"
+    },
+    {
+        "name":  "PP-190",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Okara",
+        "constituencyName":  "Okara-VIII"
+    },
+    {
+        "name":  "PP-191",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Pakpattan",
+        "constituencyName":  "Pakpattan-I"
+    },
+    {
+        "name":  "PP-192",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Pakpattan",
+        "constituencyName":  "Pakpattan-II"
+    },
+    {
+        "name":  "PP-193",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Pakpattan",
+        "constituencyName":  "Pakpattan-III"
+    },
+    {
+        "name":  "PP-194",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Pakpattan",
+        "constituencyName":  "Pakpattan-IV"
+    },
+    {
+        "name":  "PP-195",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Pakpattan",
+        "constituencyName":  "Pakpattan-V"
+    },
+    {
+        "name":  "PP-196",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-I"
+    },
+    {
+        "name":  "PP-197",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-II"
+    },
+    {
+        "name":  "PP-198",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-III"
+    },
+    {
+        "name":  "PP-199",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-IV"
+    },
+    {
+        "name":  "PP-200",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-V"
+    },
+    {
+        "name":  "PP-201",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-VI"
+    },
+    {
+        "name":  "PP-202",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Sahiwal",
+        "constituencyName":  "Sahiwal-VII"
+    },
+    {
+        "name":  "PP-203",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-I"
+    },
+    {
+        "name":  "PP-204",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-II"
+    },
+    {
+        "name":  "PP-205",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-III"
+    },
+    {
+        "name":  "PP-206",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-IV"
+    },
+    {
+        "name":  "PP-207",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-V"
+    },
+    {
+        "name":  "PP-208",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-VI"
+    },
+    {
+        "name":  "PP-209",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-VII"
+    },
+    {
+        "name":  "PP-210",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Khanewal",
+        "constituencyName":  "Khanewal-VIII"
+    },
+    {
+        "name":  "PP-211",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-I"
+    },
+    {
+        "name":  "PP-212",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-II"
+    },
+    {
+        "name":  "PP-213",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-III"
+    },
+    {
+        "name":  "PP-214",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-IV"
+    },
+    {
+        "name":  "PP-215",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-V"
+    },
+    {
+        "name":  "PP-216",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-VI"
+    },
+    {
+        "name":  "PP-217",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-VII"
+    },
+    {
+        "name":  "PP-218",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-VIII"
+    },
+    {
+        "name":  "PP-219",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-IX"
+    },
+    {
+        "name":  "PP-220",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-X"
+    },
+    {
+        "name":  "PP-221",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-XI"
+    },
+    {
+        "name":  "PP-222",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-XII"
+    },
+    {
+        "name":  "PP-223",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Multan",
+        "constituencyName":  "Multan-XIII"
+    },
+    {
+        "name":  "PP-224",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lodhran",
+        "constituencyName":  "Lodhran-I"
+    },
+    {
+        "name":  "PP-225",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lodhran",
+        "constituencyName":  "Lodhran-II"
+    },
+    {
+        "name":  "PP-226",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lodhran",
+        "constituencyName":  "Lodhran-III"
+    },
+    {
+        "name":  "PP-227",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lodhran",
+        "constituencyName":  "Lodhran-IV"
+    },
+    {
+        "name":  "PP-228",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Lodhran",
+        "constituencyName":  "Lodhran-V"
+    },
+    {
+        "name":  "PP-229",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-I"
+    },
+    {
+        "name":  "PP-230",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-II"
+    },
+    {
+        "name":  "PP-231",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-III"
+    },
+    {
+        "name":  "PP-232",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-IV"
+    },
+    {
+        "name":  "PP-233",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-V"
+    },
+    {
+        "name":  "PP-234",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-VI"
+    },
+    {
+        "name":  "PP-235",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-VII"
+    },
+    {
+        "name":  "PP-236",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Vehari",
+        "constituencyName":  "Vehari-VIII"
+    },
+    {
+        "name":  "PP-237",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-I"
+    },
+    {
+        "name":  "PP-238",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-II"
+    },
+    {
+        "name":  "PP-239",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-III"
+    },
+    {
+        "name":  "PP-240",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-IV"
+    },
+    {
+        "name":  "PP-241",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-V"
+    },
+    {
+        "name":  "PP-242",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-VI"
+    },
+    {
+        "name":  "PP-243",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-VII"
+    },
+    {
+        "name":  "PP-244",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalnagar",
+        "constituencyName":  "Bahawalnagar-VIII"
+    },
+    {
+        "name":  "PP-245",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-I"
+    },
+    {
+        "name":  "PP-246",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-II"
+    },
+    {
+        "name":  "PP-247",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-III"
+    },
+    {
+        "name":  "PP-248",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-IV"
+    },
+    {
+        "name":  "PP-249",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-V"
+    },
+    {
+        "name":  "PP-250",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-VI"
+    },
+    {
+        "name":  "PP-251",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-VII"
+    },
+    {
+        "name":  "PP-252",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-VIII"
+    },
+    {
+        "name":  "PP-253",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-IX"
+    },
+    {
+        "name":  "PP-254",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Bahawalpur",
+        "constituencyName":  "Bahawalpur-X"
+    },
+    {
+        "name":  "PP-255",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-I"
+    },
+    {
+        "name":  "PP-256",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-II"
+    },
+    {
+        "name":  "PP-257",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-III"
+    },
+    {
+        "name":  "PP-258",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-IV"
+    },
+    {
+        "name":  "PP-259",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-V"
+    },
+    {
+        "name":  "PP-260",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-VI"
+    },
+    {
+        "name":  "PP-261",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-VII"
+    },
+    {
+        "name":  "PP-262",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-VIII"
+    },
+    {
+        "name":  "PP-263",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-IX"
+    },
+    {
+        "name":  "PP-264",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-X"
+    },
+    {
+        "name":  "PP-265",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-XI"
+    },
+    {
+        "name":  "PP-266",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-XII"
+    },
+    {
+        "name":  "PP-267",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rahim Yar Khan",
+        "constituencyName":  "Rahim Yar Khan-XIII"
+    },
+    {
+        "name":  "PP-268",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-I"
+    },
+    {
+        "name":  "PP-269",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-II"
+    },
+    {
+        "name":  "PP-270",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-III"
+    },
+    {
+        "name":  "PP-271",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-IV"
+    },
+    {
+        "name":  "PP-272",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-V"
+    },
+    {
+        "name":  "PP-273",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-VI"
+    },
+    {
+        "name":  "PP-274",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-VII"
+    },
+    {
+        "name":  "PP-275",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-VIII"
+    },
+    {
+        "name":  "PP-276",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-IX"
+    },
+    {
+        "name":  "PP-277",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-X"
+    },
+    {
+        "name":  "PP-278",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-XI"
+    },
+    {
+        "name":  "PP-279",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Muzaffargarh",
+        "constituencyName":  "Muzaffargarh-XII"
+    },
+    {
+        "name":  "PP-280",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Layyah",
+        "constituencyName":  "Layyah-I"
+    },
+    {
+        "name":  "PP-281",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Layyah",
+        "constituencyName":  "Layyah-II"
+    },
+    {
+        "name":  "PP-282",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Layyah",
+        "constituencyName":  "Layyah-III"
+    },
+    {
+        "name":  "PP-283",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Layyah",
+        "constituencyName":  "Layyah-IV"
+    },
+    {
+        "name":  "PP-284",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Layyah",
+        "constituencyName":  "Layyah-V"
+    },
+    {
+        "name":  "PP-285",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-I"
+    },
+    {
+        "name":  "PP-286",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-II"
+    },
+    {
+        "name":  "PP-287",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-III"
+    },
+    {
+        "name":  "PP-288",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-IV"
+    },
+    {
+        "name":  "PP-289",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-V"
+    },
+    {
+        "name":  "PP-290",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-VI"
+    },
+    {
+        "name":  "PP-291",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-VII"
+    },
+    {
+        "name":  "PP-292",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Dera Ghazi Khan",
+        "constituencyName":  "Dera Ghazi Khan-VIII"
+    },
+    {
+        "name":  "PP-293",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rajan Pur",
+        "constituencyName":  "Rajan Pur-I"
+    },
+    {
+        "name":  "PP-294",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rajan Pur",
+        "constituencyName":  "Rajan Pur-II"
+    },
+    {
+        "name":  "PP-295",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rajan Pur",
+        "constituencyName":  "Rajan Pur-III"
+    },
+    {
+        "name":  "PP-296",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rajan Pur",
+        "constituencyName":  "Rajan Pur-IV"
+    },
+    {
+        "name":  "PP-297",
+        "type":  "provincial",
+        "province":  "Punjab",
+        "district":  "Rajan Pur",
+        "constituencyName":  "Rajan Pur-V"
+    },
+    {
+        "name":  "PS-1",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Jacobabad",
+        "constituencyName":  "Jacobabad-I"
+    },
+    {
+        "name":  "PS-2",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Jacobabad",
+        "constituencyName":  "Jacobabad-II"
+    },
+    {
+        "name":  "PS-3",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Jacobabad",
+        "constituencyName":  "Jacobabad-III"
+    },
+    {
+        "name":  "PS-4",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Kashmore",
+        "constituencyName":  "Kashmore-I"
+    },
+    {
+        "name":  "PS-5",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Kashmore",
+        "constituencyName":  "Kashmore-II"
+    },
+    {
+        "name":  "PS-7",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Shikarpur",
+        "constituencyName":  "Shikarpur-I"
+    },
+    {
+        "name":  "PS-8",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Shikarpur",
+        "constituencyName":  "Shikarpur-II"
+    },
+    {
+        "name":  "PS-9",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Shikarpur",
+        "constituencyName":  "Shikarpur-III"
+    },
+    {
+        "name":  "PS-10",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Larkana",
+        "constituencyName":  "Larkana-I"
+    },
+    {
+        "name":  "PS-11",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Larkana",
+        "constituencyName":  "Larkana-II"
+    },
+    {
+        "name":  "PS-12",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Larkana",
+        "constituencyName":  "Larkana-III"
+    },
+    {
+        "name":  "PS-13",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Larkana",
+        "constituencyName":  "Larkana-IV"
+    },
+    {
+        "name":  "PS-14",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Kamber Shahdadkot",
+        "constituencyName":  "Kamber Shahdadkot-I"
+    },
+    {
+        "name":  "PS-15",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Kamber Shahdadkot",
+        "constituencyName":  "Kamber Shahdadkot-II"
+    },
+    {
+        "name":  "PS-16",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Kamber Shahdadkot",
+        "constituencyName":  "Kamber Shahdadkot-III"
+    },
+    {
+        "name":  "PS-17",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Kamber Shahdadkot",
+        "constituencyName":  "Kamber Shahdadkot-IV"
+    },
+    {
+        "name":  "PS-18",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Ghotki",
+        "constituencyName":  "Ghotki-I"
+    },
+    {
+        "name":  "PS-19",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Ghotki",
+        "constituencyName":  "Ghotki-II"
+    },
+    {
+        "name":  "PS-20",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Ghotki",
+        "constituencyName":  "Ghotki-III"
+    },
+    {
+        "name":  "PS-21",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Ghotki",
+        "constituencyName":  "Ghotki-IV"
+    },
+    {
+        "name":  "PS-22",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sukkur",
+        "constituencyName":  "Sukkur-I"
+    },
+    {
+        "name":  "PS-23",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sukkur",
+        "constituencyName":  "Sukkur-II"
+    },
+    {
+        "name":  "PS-24",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sukkur",
+        "constituencyName":  "Sukkur-III"
+    },
+    {
+        "name":  "PS-25",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sukkur",
+        "constituencyName":  "Sukkur-IV"
+    },
+    {
+        "name":  "PS-26",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-I"
+    },
+    {
+        "name":  "PS-27",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-II"
+    },
+    {
+        "name":  "PS-28",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-III"
+    },
+    {
+        "name":  "PS-29",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-IV"
+    },
+    {
+        "name":  "PS-30",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-V"
+    },
+    {
+        "name":  "PS-31",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-VI"
+    },
+    {
+        "name":  "PS-32",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Khairpur",
+        "constituencyName":  "Khairpur-VII"
+    },
+    {
+        "name":  "PS-33",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Naushahro Feroze",
+        "constituencyName":  "Naushahro Feroze-I"
+    },
+    {
+        "name":  "PS-34",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Naushahro Feroze",
+        "constituencyName":  "Naushahro Feroze-II"
+    },
+    {
+        "name":  "PS-35",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Naushahro Feroze",
+        "constituencyName":  "Naushahro Feroze-III"
+    },
+    {
+        "name":  "PS-36",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Naushahro Feroze",
+        "constituencyName":  "Naushahro Feroze-IV"
+    },
+    {
+        "name":  "PS-37",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Shaheed Benazirabad",
+        "constituencyName":  "Shaheed Benazirabad-I"
+    },
+    {
+        "name":  "PS-38",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Shaheed Benazirabad",
+        "constituencyName":  "Shaheed Benazirabad-II"
+    },
+    {
+        "name":  "PS-39",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Shaheed Benazirabad",
+        "constituencyName":  "Shaheed Benazirabad-III"
+    },
+    {
+        "name":  "PS-40",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Shaheed Benazirabad",
+        "constituencyName":  "Shaheed Benazirabad-IV"
+    },
+    {
+        "name":  "PS-41",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-I"
+    },
+    {
+        "name":  "PS-42",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-II"
+    },
+    {
+        "name":  "PS-43",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-III"
+    },
+    {
+        "name":  "PS-44",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-IV"
+    },
+    {
+        "name":  "PS-45",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-V"
+    },
+    {
+        "name":  "PS-46",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sanghar",
+        "constituencyName":  "Sanghar-VI"
+    },
+    {
+        "name":  "PS-47",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Mirpurkhas",
+        "constituencyName":  "Mirpurkhas-I"
+    },
+    {
+        "name":  "PS-48",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Mirpurkhas",
+        "constituencyName":  "Mirpurkhas-II"
+    },
+    {
+        "name":  "PS-49",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Mirpurkhas",
+        "constituencyName":  "Mirpurkhas-III"
+    },
+    {
+        "name":  "PS-50",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Mirpurkhas",
+        "constituencyName":  "Mirpurkhas-IV"
+    },
+    {
+        "name":  "PS-51",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Umerkot",
+        "constituencyName":  "Umerkot-I"
+    },
+    {
+        "name":  "PS-52",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Umerkot",
+        "constituencyName":  "Umerkot-II"
+    },
+    {
+        "name":  "PS-53",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Umerkot",
+        "constituencyName":  "Umerkot-III"
+    },
+    {
+        "name":  "PS-54",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Tharparkar",
+        "constituencyName":  "Tharparkar-I"
+    },
+    {
+        "name":  "PS-55",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Tharparkar",
+        "constituencyName":  "Tharparkar-II"
+    },
+    {
+        "name":  "PS-56",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Tharparkar",
+        "constituencyName":  "Tharparkar-III"
+    },
+    {
+        "name":  "PS-57",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Tharparkar",
+        "constituencyName":  "Tharparkar-IV"
+    },
+    {
+        "name":  "PS-58",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Matiari",
+        "constituencyName":  "Matiari-I"
+    },
+    {
+        "name":  "PS-59",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Matiari",
+        "constituencyName":  "Matiari-II"
+    },
+    {
+        "name":  "PS-60",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Tando Allahyar",
+        "constituencyName":  "Tando Allahyar-I"
+    },
+    {
+        "name":  "PS-61",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Tando Allahyar",
+        "constituencyName":  "Tando Allahyar-II"
+    },
+    {
+        "name":  "PS-62",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-I"
+    },
+    {
+        "name":  "PS-63",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-II"
+    },
+    {
+        "name":  "PS-64",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-III"
+    },
+    {
+        "name":  "PS-65",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-IV"
+    },
+    {
+        "name":  "PS-66",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-V"
+    },
+    {
+        "name":  "PS-67",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Hyderabad",
+        "constituencyName":  "Hyderabad-VI"
+    },
+    {
+        "name":  "PS-68",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Tando Muhammad Khan",
+        "constituencyName":  "Tando Muhammad Khan-I"
+    },
+    {
+        "name":  "PS-69",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Tando Muhammad Khan",
+        "constituencyName":  "Tando Muhammad Khan-II"
+    },
+    {
+        "name":  "PS-70",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Badin",
+        "constituencyName":  "Badin-I"
+    },
+    {
+        "name":  "PS-71",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Badin",
+        "constituencyName":  "Badin-II"
+    },
+    {
+        "name":  "PS-72",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Badin",
+        "constituencyName":  "Badin-III"
+    },
+    {
+        "name":  "PS-73",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Badin",
+        "constituencyName":  "Badin-IV"
+    },
+    {
+        "name":  "PS-74",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Badin",
+        "constituencyName":  "Badin-V"
+    },
+    {
+        "name":  "PS-75",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sujawal",
+        "constituencyName":  "Sujawal-I"
+    },
+    {
+        "name":  "PS-76",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Sujawal",
+        "constituencyName":  "Sujawal-II"
+    },
+    {
+        "name":  "PS-77",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Thatta",
+        "constituencyName":  "Thatta-I"
+    },
+    {
+        "name":  "PS-78",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Thatta",
+        "constituencyName":  "Thatta-II"
+    },
+    {
+        "name":  "PS-79",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Thatta",
+        "constituencyName":  "Thatta-III"
+    },
+    {
+        "name":  "PS-80",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Jamshoro",
+        "constituencyName":  "Jamshoro-I"
+    },
+    {
+        "name":  "PS-81",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Jamshoro",
+        "constituencyName":  "Jamshoro-II"
+    },
+    {
+        "name":  "PS-82",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Jamshoro",
+        "constituencyName":  "Jamshoro-III"
+    },
+    {
+        "name":  "PS-83",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Dadu",
+        "constituencyName":  "Dadu-I"
+    },
+    {
+        "name":  "PS-84",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Dadu",
+        "constituencyName":  "Dadu-II"
+    },
+    {
+        "name":  "PS-85",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Dadu",
+        "constituencyName":  "Dadu-III"
+    },
+    {
+        "name":  "PS-86",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Dadu",
+        "constituencyName":  "Dadu-IV"
+    },
+    {
+        "name":  "PS-88",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Malir",
+        "constituencyName":  "Malir-II"
+    },
+    {
+        "name":  "PS-89",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Malir",
+        "constituencyName":  "Malir-III"
+    },
+    {
+        "name":  "PS-90",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Malir",
+        "constituencyName":  "Malir-IV"
+    },
+    {
+        "name":  "PS-91",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Malir",
+        "constituencyName":  "Malir-V"
+    },
+    {
+        "name":  "PS-92",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-I"
+    },
+    {
+        "name":  "PS-93",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-II"
+    },
+    {
+        "name":  "PS-94",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-III"
+    },
+    {
+        "name":  "PS-95",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-IV"
+    },
+    {
+        "name":  "PS-96",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-V"
+    },
+    {
+        "name":  "PS-97",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-VI"
+    },
+    {
+        "name":  "PS-98",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Korangi Karachi",
+        "constituencyName":  "Korangi Karachi-VII"
+    },
+    {
+        "name":  "PS-99",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-I"
+    },
+    {
+        "name":  "PS-100",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-II"
+    },
+    {
+        "name":  "PS-101",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-III"
+    },
+    {
+        "name":  "PS-102",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-IV"
+    },
+    {
+        "name":  "PS-103",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-V"
+    },
+    {
+        "name":  "PS-104",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-VI"
+    },
+    {
+        "name":  "PS-105",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-VII"
+    },
+    {
+        "name":  "PS-106",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi East",
+        "constituencyName":  "Karachi East-VIII"
+    },
+    {
+        "name":  "PS-107",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi South",
+        "constituencyName":  "Karachi South-I"
+    },
+    {
+        "name":  "PS-108",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi South",
+        "constituencyName":  "Karachi South-II"
+    },
+    {
+        "name":  "PS-109",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi South",
+        "constituencyName":  "Karachi South-III"
+    },
+    {
+        "name":  "PS-110",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi South",
+        "constituencyName":  "Karachi South-IV"
+    },
+    {
+        "name":  "PS-111",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi South",
+        "constituencyName":  "Karachi South-V"
+    },
+    {
+        "name":  "PS-112",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-I"
+    },
+    {
+        "name":  "PS-113",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-II"
+    },
+    {
+        "name":  "PS-114",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-III"
+    },
+    {
+        "name":  "PS-115",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-IV"
+    },
+    {
+        "name":  "PS-116",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-V"
+    },
+    {
+        "name":  "PS-117",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-VI"
+    },
+    {
+        "name":  "PS-118",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-VII"
+    },
+    {
+        "name":  "PS-119",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-VIII"
+    },
+    {
+        "name":  "PS-120",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-IX"
+    },
+    {
+        "name":  "PS-121",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-X"
+    },
+    {
+        "name":  "PS-122",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi West",
+        "constituencyName":  "Karachi West-XI"
+    },
+    {
+        "name":  "PS-123",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-I"
+    },
+    {
+        "name":  "PS-124",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-II"
+    },
+    {
+        "name":  "PS-125",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-III"
+    },
+    {
+        "name":  "PS-126",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-IV"
+    },
+    {
+        "name":  "PS-127",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-V"
+    },
+    {
+        "name":  "PS-128",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-VI"
+    },
+    {
+        "name":  "PS-129",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-VII"
+    },
+    {
+        "name":  "PS-130",
+        "type":  "provincial",
+        "province":  "Sindh",
+        "district":  "Karachi Central",
+        "constituencyName":  "Karachi Central-VIII"
+    }
+]
