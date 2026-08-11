@@ -26,19 +26,47 @@ const AdminDashboard = () => {
     try {
       setIsLoading(true);
       setError(null);
-      const eventsQuery = query(collection(db, 'events'), orderBy('startDate', 'desc'));
-      const eventsSnapshot = await getDocs(eventsQuery);
-      const loadedEvents = eventsSnapshot.docs.map(docSnap => ({ id: docSnap.id, _id: docSnap.id, ...docSnap.data() }));
+
+      // Fetch Events safely
+      let loadedEvents = [];
+      try {
+        const eventsQuery = query(collection(db, 'events'), orderBy('startDate', 'desc'));
+        const eventsSnapshot = await getDocs(eventsQuery);
+        loadedEvents = eventsSnapshot.docs.map(docSnap => ({ id: docSnap.id, _id: docSnap.id, ...docSnap.data() }));
+      } catch (evErr) {
+        try {
+          const fallbackSnap = await getDocs(collection(db, 'events'));
+          loadedEvents = fallbackSnap.docs.map(docSnap => ({ id: docSnap.id, _id: docSnap.id, ...docSnap.data() }));
+        } catch {
+          loadedEvents = [];
+        }
+      }
       setEvents(loadedEvents);
-      const consts = await getDocs(collection(db, 'constituencies'));
-      setConstituencyCount(consts.size);
-      const parties = await getDocs(collection(db, 'parties'));
-      setPartyCount(parties.size);
-      const voters = await getDocs(collection(db, 'voters'));
-      setVoterCount(voters.size);
+
+      // Fetch Constituencies safely
+      try {
+        const consts = await getDocs(collection(db, 'constituencies'));
+        setConstituencyCount(consts.size);
+      } catch {
+        setConstituencyCount(0);
+      }
+
+      // Fetch Parties safely
+      try {
+        const parties = await getDocs(collection(db, 'parties'));
+        setPartyCount(parties.size);
+      } catch {
+        setPartyCount(0);
+      }
+
+      // Fetch Voters safely
+      try {
+        const voters = await getDocs(collection(db, 'voters'));
+        setVoterCount(voters.size);
+      } catch {
+        setVoterCount(0);
+      }
     } catch (err) {
-      setError('Failed to load dashboard data');
-      toast.error('Failed to load dashboard data');
       console.error('Dashboard load error:', err);
     } finally {
       setIsLoading(false);

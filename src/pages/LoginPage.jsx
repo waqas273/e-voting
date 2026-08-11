@@ -41,6 +41,8 @@ const LoginPage = () => {
   const { login, triggerEmailNotification } = useAuth();
   const navigate = useNavigate();
 
+
+
   // Curated list of typical symbols
   const standardSymbols = [
     { name: 'Bat', url: 'https://cdn-icons-png.flaticon.com/512/5351/5351478.png' },
