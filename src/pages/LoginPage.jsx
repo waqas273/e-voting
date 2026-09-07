@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Vote, User, Mail, Lock, Hash, Shield, Users, Landmark, AlertCircle, UserPlus, CheckCircle } from 'lucide-react';
+import { Vote, User, Mail, Lock, Hash, Shield, Users, Landmark, AlertCircle, UserPlus, CheckCircle, Zap } from 'lucide-react';
 import { collection, getDocs, doc, getDoc, query, where, addDoc } from 'firebase/firestore';
 import { db, auth } from '../services/firebase.js';
 import { signInWithEmailAndPassword } from 'firebase/auth';
@@ -40,6 +40,70 @@ const LoginPage = () => {
   const [isLoading, setIsLoading] = useState(false);
   const { login, triggerEmailNotification } = useAuth();
   const navigate = useNavigate();
+
+  const handleBypassLogin = (role) => {
+    setIsLoading(true);
+    try {
+      if (role === 'admin') {
+        toast.success('⚡ Quick Bypass: Logged in as ECP Admin');
+        login({
+          id: 'dev-admin-id',
+          email: 'admin@ecp.gov.pk',
+          name: 'ECP Administrator',
+          role: 'admin'
+        }, 'admin-token-bypass');
+        navigate('/admin');
+      } else if (role === 'voter') {
+        toast.success('⚡ Quick Bypass: Logged in as Registered Voter');
+        login({
+          id: 'dev-voter-id',
+          voterId: '35201-1234567-1',
+          cnic: '35201-1234567-1',
+          name: 'Muhammad Ali (Voter)',
+          email: 'voter@ecp.gov.pk',
+          naConstituencyId: 'NA-120',
+          paConstituencyId: 'PP-150',
+          hasVotedMNA: false,
+          hasVotedMPA: false,
+          role: 'voter'
+        }, 'voter-token-bypass');
+        navigate('/voter');
+      } else if (role === 'party') {
+        toast.success('⚡ Quick Bypass: Logged in as Party Manager (PTI)');
+        login({
+          id: 'dev-party-id',
+          email: 'party@ecp.gov.pk',
+          name: 'Party Manager',
+          partyName: 'Pakistan Tehreek-e-Insaf',
+          acronym: 'PTI',
+          symbolUrl: 'https://cdn-icons-png.flaticon.com/512/5351/5351478.png',
+          symbolName: 'Bat',
+          role: 'party'
+        }, 'party-token-bypass');
+        navigate('/party');
+      } else if (role === 'independent') {
+        toast.success('⚡ Quick Bypass: Logged in as Independent Candidate');
+        login({
+          id: 'dev-cand-id',
+          email: 'candidate@ecp.gov.pk',
+          name: 'Barrister Gohar',
+          partyId: 'independent',
+          partyAcronym: 'Independent',
+          symbolUrl: 'https://cdn-icons-png.flaticon.com/512/375/375107.png',
+          symbolName: 'Goat',
+          cnic: '35201-7654321-1',
+          constituencyId: 'NA-120',
+          role: 'independent'
+        }, 'independent-token-bypass');
+        navigate('/candidate');
+      }
+    } catch (err) {
+      console.error('Bypass login error:', err);
+      toast.error('Bypass login failed: ' + err.message);
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
 
 
@@ -665,6 +729,58 @@ const LoginPage = () => {
           
           {!isRegisteringParty ? (
             <>
+              {/* Quick Stakeholder Login Bypass (Dev/Demo Shortcuts) */}
+              <div className="mb-6 p-3.5 bg-emerald-950/70 border border-yellow-450/30 rounded-2xl shadow-xl backdrop-blur-md">
+                <div className="flex items-center justify-between mb-2.5 pb-2 border-b border-emerald-500/15">
+                  <div className="flex items-center space-x-2">
+                    <Zap className="h-4 w-4 text-yellow-400 animate-bounce" />
+                    <span className="text-xs font-black text-yellow-400 uppercase tracking-wider">
+                      Quick Stakeholder Login Bypass
+                    </span>
+                  </div>
+                  <span className="text-[9px] bg-yellow-400/15 text-yellow-300 border border-yellow-400/30 px-2 py-0.5 rounded-full font-bold">
+                    DEV DEMO
+                  </span>
+                </div>
+                <p className="text-[11px] text-emerald-300/80 mb-2.5">
+                  One-click bypass to directly access dashboard for any role:
+                </p>
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-1.5">
+                  <button
+                    type="button"
+                    onClick={() => handleBypassLogin('admin')}
+                    className="p-2 rounded-xl bg-yellow-500/15 hover:bg-yellow-500/30 border border-yellow-500/30 text-yellow-300 hover:text-white text-[11px] font-bold transition-all flex flex-col items-center gap-1 active:scale-95 shadow"
+                  >
+                    <Shield className="h-4 w-4 text-yellow-400" />
+                    <span>Admin</span>
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => handleBypassLogin('voter')}
+                    className="p-2 rounded-xl bg-sky-500/15 hover:bg-sky-500/30 border border-sky-500/30 text-sky-300 hover:text-white text-[11px] font-bold transition-all flex flex-col items-center gap-1 active:scale-95 shadow"
+                  >
+                    <Users className="h-4 w-4 text-sky-400" />
+                    <span>Voter</span>
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => handleBypassLogin('party')}
+                    className="p-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/30 border border-emerald-500/30 text-emerald-300 hover:text-white text-[11px] font-bold transition-all flex flex-col items-center gap-1 active:scale-95 shadow"
+                  >
+                    <Landmark className="h-4 w-4 text-emerald-400" />
+                    <span>Party</span>
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => handleBypassLogin('independent')}
+                    className="p-2 rounded-xl bg-amber-500/15 hover:bg-amber-500/30 border border-amber-500/30 text-amber-300 hover:text-white text-[11px] font-bold transition-all flex flex-col items-center gap-1 active:scale-95 shadow"
+                  >
+                    <User className="h-4 w-4 text-amber-400" />
+                    <span>Independent</span>
+                  </button>
+                </div>
+              </div>
+
               {/* Login Type Switcher — 3 tabs: Voter | Independent Candidate | Party/Admin */}
               <div className="grid grid-cols-3 gap-1 bg-emerald-950/80 p-1 rounded-xl border border-emerald-500/10 mb-6">
                 <button

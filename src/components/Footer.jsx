@@ -316,13 +316,7 @@ const Footer = () => {
               </button>
             </div>
 
-            {/* ─── Developer Credit ─── */}
-            <div className="text-center md:text-right">
-              <p className="text-[9px] font-black uppercase tracking-widest" style={{ color: 'rgba(52,211,153,0.35)' }}>
-                Developed by
-              </p>
-              <p className="text-sm font-black text-white mt-0.5">Muhammad Waqas</p>
-            </div>
+
           </div>
 
           {/* ─── Bottom Strip ─── */}
